@@ -1,0 +1,38 @@
+/* 
+    Paleta
+    https://www.colourlovers.com/palette/1309732/Freshhh
+    #F35C9F rgb(243,92,159)
+    #F3F3F3 rgb(243,243,243)
+    #22ADC2 rgb(34,173,194)
+    #736F66 rgb(115,111,102)
+*/
+
+table {
+    color: #736F66;
+    border: 3px solid #F35C9F;
+    border-radius: 5px;
+    background-color: #736F66;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px #736F66;
+}        
+
+td:hover {
+    background-color: #F3F3F3;
+}
+
+td, th {
+    background-color: cornsilk;
+    border-radius: 2px;
+    text-align: center;
+}
+
+h1 {
+    color: #F35C9F;
+    font-size: 20pt;
+    text-align: center;
+    text-shadow: 0px 0px 5px #736F66;
+}
+
+table caption {
+    color: #F35C9F;
+}
